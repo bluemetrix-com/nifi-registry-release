@@ -60,16 +60,16 @@ $green2: #3FAE2A;
 $green3: #429929;
 $rose1: #9E737D;
 $rose2: #915D69;
-$blue-grey1: #6B8791;
+$blue-grey1: $blue1;
 $blue-grey2: #B2C1C6;
 
 /* Set FDS theme */
 
-$primaryColor: $rose1; //$green2
-$primaryColorHover: $rose2; //$green3
-$secondaryColor: $rose1; //$green1
-$accentColor: $blue7; //$orange1
-$accentColorHover: $grey4; //$orange2
+$primaryColor: $green2; //$green2
+$primaryColorHover: $green3; //$green3
+$secondaryColor: $green1; //$green1
+$accentColor: $orange1; //$orange1
+$accentColorHover: $orange2; //$orange2
 $warnColor: $red1;
 $errorColor: $warnColor;
 $warningColor: $accentColor;
