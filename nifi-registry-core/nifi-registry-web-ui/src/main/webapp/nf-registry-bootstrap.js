@@ -32,6 +32,7 @@ import '@covalent/core/common/styles/font/MaterialIcons-Regular.woff2';
 import '@covalent/core/common/styles/font/MaterialIcons-Regular.woff';
 import '@covalent/core/common/styles/font/MaterialIcons-Regular.ttf';
 import 'images/registry-logo-web-app.svg';
+import 'images/hdf-header.svg';
 import 'images/registry-background-logo.svg';
 
 // Comment out this line when developing to assert for unidirectional data flow
