@@ -33,6 +33,7 @@ import '@covalent/core/common/styles/font/MaterialIcons-Regular.woff';
 import '@covalent/core/common/styles/font/MaterialIcons-Regular.ttf';
 import 'images/registry-logo-web-app.svg';
 import 'images/registry-background-logo.svg';
+import 'images/hdf-header.svg';
 
 // Comment out this line when developing to assert for unidirectional data flow
 enableProdMode();
