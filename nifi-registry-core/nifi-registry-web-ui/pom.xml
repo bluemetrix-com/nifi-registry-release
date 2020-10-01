@@ -248,7 +248,7 @@
                         </goals>
                         <phase>initialize</phase>
                         <configuration>
-                            <arguments>--silent ci</arguments>
+                            <arguments>--silent --cache-min Infinity install</arguments>
                             <workingDirectory>${frontend.working.dir}</workingDirectory>
                         </configuration>
                     </execution>
