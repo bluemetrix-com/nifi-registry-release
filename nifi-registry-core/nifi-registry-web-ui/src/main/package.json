@@ -137,7 +137,7 @@
     "bundleDependencies": [],
     "private": true,
     "engines": {
-        "node": "=10.16.3",
+        "node": "=12.16.2",
         "npm": "=6.9.0"
     },
     "resolutions": {
