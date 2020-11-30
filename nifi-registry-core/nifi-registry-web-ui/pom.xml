@@ -19,11 +19,11 @@
     <parent>
         <groupId>org.apache.nifi.registry</groupId>
         <artifactId>nifi-registry-core</artifactId>
-        <version>0.8.0</version>
+        <version>0.8.0.3.5.2.0-94</version>
     </parent>
     <groupId>org.apache.nifi.registry</groupId>
     <artifactId>nifi-registry-web-ui</artifactId>
-    <version>0.8.0</version>
+    <version>0.8.0.3.5.2.0-94</version>
     <packaging>war</packaging>
     <properties>
         <frontend.source>${basedir}/src/main</frontend.source>
