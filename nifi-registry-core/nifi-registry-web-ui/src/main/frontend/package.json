@@ -36,7 +36,7 @@
     "zone.js": "0.8.26",
     "tslib": "1.8.0",
     "material-design-icons": "3.0.1",
-    "jquery": "3.3.1",
+    "jquery": "3.5.1",
     "@angular/animations": "5.2.0",
     "@angular/cdk": "5.2.0",
     "@angular/common": "5.2.0",
